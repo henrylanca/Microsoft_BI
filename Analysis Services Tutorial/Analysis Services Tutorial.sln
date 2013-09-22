@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Analysis Services Tutorial", "Analysis Services Tutorial\Analysis Services Tutorial.dwproj", "{FD452BE2-E4BB-47FB-A5A5-FE5F6AFEE48F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD452BE2-E4BB-47FB-A5A5-FE5F6AFEE48F}.Development|Default.ActiveCfg = Development
+		{FD452BE2-E4BB-47FB-A5A5-FE5F6AFEE48F}.Development|Default.Build.0 = Development
+		{FD452BE2-E4BB-47FB-A5A5-FE5F6AFEE48F}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
